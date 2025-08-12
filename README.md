@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## 📸 App Preview
+## 📸 App Preview (LIGHT AND DARK MODE)
 <p align="center">
   <img src="https://github.com/abdlsmd/Flutter-Favorite-Places-App/blob/main/s1.jpg" width="250"/>
   <img src="https://github.com/abdlsmd/Flutter-Favorite-Places-App/blob/main/s3.jpg" width="250"/>
