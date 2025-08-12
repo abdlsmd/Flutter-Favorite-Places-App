@@ -4,9 +4,15 @@ A new Flutter project.
 
 ## 📸 App Preview
 <p align="center">
-  <img src="" width="250"/>
-  <img src="" width="250"/>
-  <img src="" width="250"/>
+  <img src="https://github.com/abdlsmd/Flutter-Favorite-Places-App/blob/main/s1.jpg" width="250"/>
+  <img src="https://github.com/abdlsmd/Flutter-Favorite-Places-App/blob/main/s3.jpg" width="250"/>
+  <img src="https://github.com/abdlsmd/Flutter-Favorite-Places-App/blob/main/s5.jpg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/abdlsmd/Flutter-Favorite-Places-App/blob/main/s2.jpg" width="250"/>
+  <img src="https://github.com/abdlsmd/Flutter-Favorite-Places-App/blob/main/s4.jpg" width="250"/>
+  <img src="https://github.com/abdlsmd/Flutter-Favorite-Places-App/blob/main/s6.jpg" width="250"/>
 </p>
 
 ## Getting Started
